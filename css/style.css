@@ -1,0 +1,47 @@
+.header{
+	min-height: 100px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+}
+.box1{
+	height: 200px;
+}
+.blog{
+	background-color: green;
+	width: 60%;
+	float: left;
+}
+.contact{
+	background-color: blue;
+	width: 40%;
+	float: right;
+}
+.box2{
+	min-height: 130px;
+	width: 33.33%;
+	float: left;
+}
+.blue{
+	background-color: blueviolet;
+	}
+.aqua{
+	background-color: aquamarine;
+}
+.pink{
+	background-color: lightpink;
+}
+.footer{
+	min-height: 150px;
+	background-color: black;
+}
+.map iframe{
+	 width: 100%;
+	 height: 550px;
+	 border: 0;
+}
+.video iframe{
+	width: 450px;
+	height: 280px;
+}
